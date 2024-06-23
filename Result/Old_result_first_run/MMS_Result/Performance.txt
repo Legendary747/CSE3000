@@ -1,0 +1,39 @@
+Read
+Cumulative WER: 0.4479308625560911
+Data saved to Excel file at: C:\Users\ymche\PycharmProjects\MMS\test_read_group1_MMS.xlsx
+
+Cumulative WER: 0.29214752073407446
+Data saved to Excel file at: C:\Users\ymche\PycharmProjects\MMS\test_read_group2_MMS.xlsx
+
+Cumulative WER: 0.7103529460358109
+Data saved to Excel file at: C:\Users\ymche\PycharmProjects\MMS\test_read_group3_MMS.xlsx
+
+Cumulative WER: 0.7134642688121154
+Total processing time: 767.6179890632629
+Data saved to Excel file at: C:\Users\ymche\PycharmProjects\MMS\test_read_group4_MMS.xlsx
+
+Cumulative WER: 0.3982246211874878
+Total processing time: 769.9712080955505
+Data saved to Excel file at: C:\Users\ymche\PycharmProjects\MMS\test_read_group5_MMS.xlsx
+
+
+HMI
+Cumulative WER: 0.684140896312221
+Data saved to Excel file at: C:\Users\ymche\PycharmProjects\MMS\test_hmi_group1_MMS.xlsx
+
+Cumulative WER: 0.5403185035389282
+Total processing time: 182.404061794281
+Data saved to Excel file at: C:\Users\ymche\PycharmProjects\MMS\test_hmi_group2_MMS.xlsx
+
+Cumulative WER: 0.8262431249298462
+Total processing time: 223.23494863510132
+Data saved to Excel file at: C:\Users\ymche\PycharmProjects\MMS\test_hmi_group3_MMS.xlsx
+
+Cumulative WER: 0.8098128262807182
+Total processing time: 709.9884901046753
+Data saved to Excel file at: C:\Users\ymche\PycharmProjects\MMS\test_hmi_group4_MMS.xlsx
+
+Cumulative WER: 0.5903501458941226
+Total processing time: 790.2990257740021
+Data saved to Excel file at: C:\Users\ymche\PycharmProjects\MMS\test_hmi_group5_MMS.xlsx
+

@@ -1,0 +1,52 @@
+Processing Log
+==============================
+Text file processed: C:\Users\ymche\PycharmProjects\MMS\JASMIN-Kaldi_processed/nl/test_hmi_group1\text
+Output saved to: C:\Users\ymche\PycharmProjects\MMS\test_hmi_group1\test_hmi_group1_Whisper_final.xlsx
+Cumulative WER: 0.33963654223968565
+Total processing time: 2123.03 seconds
+==============================
+Text file processed: C:\Users\ymche\PycharmProjects\MMS\JASMIN-Kaldi_processed/nl/test_hmi_group2\text
+Output saved to: C:\Users\ymche\PycharmProjects\MMS\test_hmi_group2\test_hmi_group2_Whisper_final.xlsx
+Cumulative WER: 0.2849968612680477
+Total processing time: 1427.12 seconds
+==============================
+Text file processed: C:\Users\ymche\PycharmProjects\MMS\JASMIN-Kaldi_processed/nl/test_hmi_group3\text
+Output saved to: C:\Users\ymche\PycharmProjects\MMS\test_hmi_group3\test_hmi_group3_Whisper_final.xlsx
+Cumulative WER: 0.44680142159040426
+Total processing time: 1638.48 seconds
+==============================
+Text file processed: C:\Users\ymche\PycharmProjects\MMS\JASMIN-Kaldi_processed/nl/test_hmi_group4\text
+Output saved to: C:\Users\ymche\PycharmProjects\MMS\test_hmi_group4\test_hmi_group4_Whisper_final.xlsx
+Cumulative WER: 0.4977282288599075
+Total processing time: 3884.59 seconds
+==============================
+Text file processed: C:\Users\ymche\PycharmProjects\MMS\JASMIN-Kaldi_processed/nl/test_hmi_group5\text
+Output saved to: C:\Users\ymche\PycharmProjects\MMS\test_hmi_group5\test_hmi_group5_Whisper_final.xlsx
+Cumulative WER: 0.35534005689164727
+Total processing time: 5357.58 seconds
+==============================
+Text file processed: C:\Users\ymche\PycharmProjects\MMS\JASMIN-Kaldi_processed/nl/test_read_group1\text
+Output saved to: C:\Users\ymche\PycharmProjects\MMS\test_read_group1\test_read_group1_Whisper_final.xlsx
+Cumulative WER: 0.20043139206902272
+Total processing time: 7558.11 seconds
+==============================
+Text file processed: C:\Users\ymche\PycharmProjects\MMS\JASMIN-Kaldi_processed/nl/test_read_group2\text
+Output saved to: C:\Users\ymche\PycharmProjects\MMS\test_read_group2\test_read_group2_Whisper_final.xlsx
+Cumulative WER: 0.10597322892968626
+Total processing time: 5836.04 seconds
+==============================
+Text file processed: C:\Users\ymche\PycharmProjects\MMS\JASMIN-Kaldi_processed/nl/test_read_group3\text
+Output saved to: C:\Users\ymche\PycharmProjects\MMS\test_read_group3\test_read_group3_Whisper_final.xlsx
+Cumulative WER: 0.33957131079967023
+Total processing time: 6560.40 seconds
+==============================
+Text file processed: C:\Users\ymche\PycharmProjects\MMS\JASMIN-Kaldi_processed/nl/test_read_group4\text
+Output saved to: C:\Users\ymche\PycharmProjects\MMS\test_read_group4\test_read_group4_Whisper_final.xlsx
+Cumulative WER: 0.3572306238185255
+Total processing time: 6260.24 seconds
+==============================
+Text file processed: C:\Users\ymche\PycharmProjects\MMS\JASMIN-Kaldi_processed/nl/test_read_group5\text
+Output saved to: C:\Users\ymche\PycharmProjects\MMS\test_read_group5\test_read_group5_Whisper_final.xlsx
+Cumulative WER: 0.15663686661366477
+Total processing time: 7234.59 seconds
+==============================

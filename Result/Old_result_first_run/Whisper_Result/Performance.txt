@@ -1,0 +1,41 @@
+Read
+Cumulative WER: 0.20594240185907545
+Total processing time: 3766.12 seconds
+Data saved to Excel file at: C:\Users\ymche\PycharmProjects\MMS\test_read_group1_Whisper.xlsx
+
+Cumulative WER: 0.1080885595836641
+Total processing time: 3146.97 seconds
+Data saved to Excel file at: C:\Users\ymche\PycharmProjects\MMS\test_read_group2_Whisper.xlsx
+
+Cumulative WER: 0.35675541897828283
+Total processing time: 3238.41 seconds
+Data saved to Excel file at: C:\Users\ymche\PycharmProjects\MMS\test_read_group3_Whisper.xlsx
+
+Cumulative WER: 0.3644651779582751
+Total processing time: 3534.55 seconds
+Data saved to Excel file at: C:\Users\ymche\PycharmProjects\MMS\test_read_group4_Whisper.xlsx
+
+Cumulative WER: 0.1621529469069654
+Total processing time: 4523.54 seconds
+Data saved to Excel file at: C:\Users\ymche\PycharmProjects\MMS\test_read_group5_Whisper.xlsx
+
+HMI
+Cumulative WER: 0.33599473207671415
+Total processing time: 1322.07 seconds
+Data saved to Excel file at: C:\Users\ymche\PycharmProjects\MMS\test_hmi_group1_Whisper.xlsx
+
+Cumulative WER: 0.27775682132528606
+Total processing time: 902.63 seconds
+Data saved to Excel file at: C:\Users\ymche\PycharmProjects\MMS\test_hmi_group2_Whisper.xlsx
+
+Cumulative WER: 0.4764817079951073
+Total processing time: 877.11 seconds
+Data saved to Excel file at: C:\Users\ymche\PycharmProjects\MMS\test_hmi_group3_Whisper.xlsx
+
+Cumulative WER: 0.49151825373323743
+Total processing time: 2198.69 seconds
+Data saved to Excel file at: C:\Users\ymche\PycharmProjects\MMS\test_hmi_group4_Whisper.xlsx
+
+Cumulative WER: 0.3489402497797585
+Total processing time: 3089.11 seconds
+Data saved to Excel file at: C:\Users\ymche\PycharmProjects\MMS\test_hmi_group5_Whisper.xlsx
